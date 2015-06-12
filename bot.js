@@ -1,4 +1,6 @@
-var run=true;setInterval(function(){
+var run=true;
+console.log("Loaded SS2k15B");
+setInterval(function(){
 	if (!run)
 		return;
 	function UseAbility(ability) {
